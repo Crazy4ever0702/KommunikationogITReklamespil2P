@@ -26,6 +26,6 @@ public class Playercontroller : MonoBehaviour
         //Fixedupdate is called 50 times per second togther with the physics system
     void FixedUpdate()
     {
-        rb.velocity = direction/*.normalized*/ * speed;
+        rb.linearVelocity = direction/*.normalized*/ * speed;
     }
 }
