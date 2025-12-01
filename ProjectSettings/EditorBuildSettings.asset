@@ -6,11 +6,29 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 90113d6dd95997046811a8bb4528fc79
+  - enabled: 1
     path: Assets/Scenes/ValgScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/Scenes/LoadLevel.unity
     guid: 8af668a756d6041459356872ff0b5c68
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 151cc2f47320397479e7f3785235c6ec
+  - enabled: 1
+    path: Assets/Scenes/TabScene.unity
+    guid: 19dbe281a0bd2204ebe2f7c2126cb5dc
+  - enabled: 1
+    path: "Assets/Scenes/\xC6g.unity"
+    guid: 64f0c262108f5ac4db88f30ec0dc1ece
+  - enabled: 1
+    path: "Assets/Scenes/M\xE6lk.unity"
+    guid: a4a915c3d487f8a40936d8ca637e82d5
+  - enabled: 1
+    path: Assets/Scenes/Chokolade.unity
+    guid: 9406bcc0526e0b640b6d75f6db837bd4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

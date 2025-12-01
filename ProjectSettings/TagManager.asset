@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - Bomb
+  - Egg
   layers:
   - Default
   - TransparentFX
@@ -37,7 +39,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - d
   m_SortingLayers:
   - name: Default
     uniqueID: 0
